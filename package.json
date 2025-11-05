@@ -1,0 +1,17 @@
+{
+  "name": "finexustests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "takehomeassesment.spec.js",
+  "scripts": {
+    "start": "npm run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0"
+  }
+}
